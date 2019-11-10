@@ -154,7 +154,7 @@ for (int v = 0; v < numV.size();v++) {
 
 >  error bit 3개 추가
 
-![img](C:/Users/koomg/Desktop/img2.jpg)
+![img](./img2.jpg)
 
 ### 결과
 
